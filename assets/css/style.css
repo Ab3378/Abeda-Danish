@@ -2,7 +2,7 @@
 --primary-nav-dark: #050718;
 --primary-bg-dark: #071015;
 --primary-fontcolor-dark: #f9f9f9;
---primary-card-dark: #212d40;
+--primary-card-dark: #0363ff;
 --button-color: dodgerblue;
 --primary-section-dark:
 }
@@ -76,7 +76,7 @@ body{
     display: inline-block;
     margin-top: 100px;
     height: 400px;
-    width: 500px;
+    width: 500px; 
 }
 
 .content h1{
