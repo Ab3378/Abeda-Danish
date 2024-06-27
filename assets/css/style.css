@@ -42,7 +42,7 @@ body{
     flex: 1;
 }
 .image-section img{
-    height: 600px ;
+    height: 400px ;
     width: 470px;
     border-radius: 10px;
     clip-path: polygon(21% 0, 100% 0, 100% 78%, 81% 100%, 0% 100% , 0% 21%);
@@ -51,7 +51,7 @@ body{
 .image-section .image-overlay-top{
     width: 460px;
     background-color: tomato;
-    height: 600px;
+    height: 400px;
     position: absolute;
     margin-left: -20px;
     margin-top: -20px;
@@ -62,7 +62,7 @@ body{
 .image-section .image-overlay-bottom{
     width: 460px;
     background-color: dodgerblue;
-    height: 600px;
+    height: 400px;
     position: absolute;
     margin-top: 30px;
     margin-left: 45px;
