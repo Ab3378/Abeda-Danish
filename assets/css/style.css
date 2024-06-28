@@ -24,7 +24,7 @@ body{
  
 .main-header{
     clip-path: polygon(100% 0, 100% 100%, 32% 100%, 0 39%, 0 0);   
-    background-color: #35255944;
+    background-color:lightgray;
 }
 /* mian */
 .main-section{
@@ -83,6 +83,7 @@ body{
     font-size: 40px;
 }
 .content p{
+    color: black;
     font-size: 18px;
     margin-top: 20px;
     line-height: 30px;
