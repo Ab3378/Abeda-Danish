@@ -33,7 +33,7 @@ body{
     padding-bottom: 200px;
     padding-top: 100px;
     width: 70%;
-    border: 1px solid red;
+    
 }
 .main-section .content-section{
     flex: 1;
@@ -42,7 +42,7 @@ body{
     flex: 1;
 }
 .image-section img{
-    height: 400px ;
+    height: 590px ;
     width: 470px;
     border-radius: 10px;
     clip-path: polygon(21% 0, 100% 0, 100% 78%, 81% 100%, 0% 100% , 0% 21%);
@@ -51,7 +51,7 @@ body{
 .image-section .image-overlay-top{
     width: 460px;
     background-color: tomato;
-    height: 400px;
+    height: 580px;
     position: absolute;
     margin-left: -20px;
     margin-top: -20px;
@@ -62,7 +62,7 @@ body{
 .image-section .image-overlay-bottom{
     width: 460px;
     background-color: dodgerblue;
-    height: 400px;
+    height: 580px;
     position: absolute;
     margin-top: 30px;
     margin-left: 45px;
@@ -172,7 +172,7 @@ body{
 }
 .card-item .card-content a{
     text-decoration: none;
-    color: var(--primary-fontcolor-dark);
+    color: dodgerblue;
     background-color: var(--button-color-dark);
     width: 100%;
     display: block;
